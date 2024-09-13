@@ -1,8 +1,8 @@
 +++
-title= "Apollo Theme"
+title= "~lewis"
 template = "homepage.html"
 +++
 
-Thanks for checking out this theme!
+I'm a software developer using this space to share my work and thoughts.
 
-Checkout all the [options you can configure](./posts/configuration) and the [example pages](./tags/example/).
+Feel free to browse [my posts](/posts), [portfolio](/portfolio) or head over to [my GitHub profile](https://github.com/lewishazell) to see my projects and contributions.
